@@ -1,2 +1,0 @@
-# ChatroomApp
-Created with CodeSandbox
